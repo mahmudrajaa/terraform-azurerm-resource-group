@@ -1,0 +1,1 @@
+This is sample resource group using terraform module for learning purpose
