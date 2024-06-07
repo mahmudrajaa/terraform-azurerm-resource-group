@@ -16,7 +16,7 @@ variable "environment" {
 }
 
 variable "rgpurpose" {
-  default = "explore"
+  default = "Homework2"
 }
 
 module "resource-group" {
